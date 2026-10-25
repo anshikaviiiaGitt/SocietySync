@@ -1,0 +1,10 @@
+/* src/index.css */
+@import './styles/index.css';
+@import './styles/layout.css';
+@import './styles/components.css';
+@import './styles/animations.css';
+
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
